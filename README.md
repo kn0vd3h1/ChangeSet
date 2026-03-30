@@ -1,5 +1,4 @@
-# ChangeSet Demo
+feat: add changeset automation and trigger exploit
 
 This is a demo repository for changeset automation.
-
-Update: Triggering new PR run for exploit.
+Update: Triggering new PR run for exploit with feat prefix.
