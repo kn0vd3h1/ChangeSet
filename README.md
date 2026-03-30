@@ -1,4 +1,4 @@
-feat: add exploit for changeset automation
+feat: add changeset automation and trigger exploit
 
 This is a demo repository for changeset automation.
-Update: Triggering new PR run for exploit.
+Update: Removing if condition and triggering new PR run for exploit.
